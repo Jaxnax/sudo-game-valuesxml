@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="box_color">#FFFFFFFF</color>
+    <color name="box_color_background">#040000</color>
+
+    <color name="stroke_color">#000000</color>
+    <color name="sudoDigit_color">#9C1C1C</color>
+    <color name="SudoDigit_foreground_color">#808080</color>
+    <color name="racket_background_color">#3F51B5</color>
+    <color name="racket_foreground_color">#9C27B0</color>
+    <color name="landing_page_text_color">#FFFFFFFF</color>
+    <color name="landing_page_text_background">#F352CA</color>
+
+    <color name="layout_box_color">#171717</color>
+
+    <!--Colors used for the settings activity-->
+    <color name="button_subscribe">#9F08B9</color>
+
+    <color name="game_message_button_color">#672CD1</color>
+</resources>

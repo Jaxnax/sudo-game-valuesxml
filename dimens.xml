@@ -1,0 +1,84 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="left_padding">5</dimen>
+    <dimen name="right_padding">5</dimen>
+    <dimen name="box_padding">2</dimen>
+
+    <dimen name="stroke_width">2dp</dimen>
+    <dimen name="stroke_padding">1dp</dimen>
+
+    <dimen name="box_width">33dp</dimen>
+    <dimen name="box_height">33dp</dimen>
+    <dimen name="box_width_eight">37dp</dimen>
+    <dimen name="box_height_eight">37dp</dimen>
+    <dimen name="box_width_seven">42dp</dimen>
+    <dimen name="box_height_seven">42dp</dimen>
+
+    <dimen name="sudoDigitSize">14sp</dimen>
+    <dimen name="box_margin">1dp</dimen>
+
+    <dimen name="icon_padding">1dp</dimen>
+
+    <dimen name="layout_margin_left">1dp</dimen>
+    <dimen name="layout_margin_right">1dp</dimen>
+    <dimen name="layout_margin_top">1dp</dimen>
+    <dimen name="layout_margin_bottom">1dp</dimen>
+
+    <dimen name="sudo_digit_weight">1dp</dimen>
+    <dimen name="text_layout_margin">2dp</dimen>
+    <dimen name="text_linear_layoutHeight">15dp</dimen>
+    <dimen name="text_linear_layoutWidth">25dp</dimen>
+
+    <dimen name="piece_container_width">20dp</dimen>
+    <dimen name="piece_container_height">20dp</dimen>
+
+    <dimen name="sudoDigit_layout_marginLeft">5dp</dimen>
+    <dimen name="sudoDigit_layout_marginTop">1dp</dimen>
+
+    <dimen name="landing_page_text_width">250dp</dimen>
+    <dimen name="landing_page_text_height">100dp</dimen>
+    <dimen name="landing_page_margin_top">5dp</dimen>
+
+    <dimen name="board_width">299dp</dimen>
+    <dimen name="board_height">337dp</dimen>
+    <dimen name="board_width_eight">298dp</dimen>
+    <dimen name="board_height_eight">356dp</dimen>
+    <dimen name="board_width_seven">296dp</dimen>
+    <dimen name="board_height_seven">354dp</dimen>
+
+    <dimen name="racket_height">20dp</dimen>
+    <dimen name="racket_height_eight_grid">30dp</dimen>
+    <dimen name="racket_height_seven_grid">30dp</dimen>
+
+    <dimen name="box_layout_height">33dp</dimen>
+    <dimen name="box_layout_height_eight">37dp</dimen>
+    <dimen name="box_layout_height_seven">42dp</dimen>
+
+    <dimen name="scroll_linear_layout_margin_start">10dp</dimen>
+    <dimen name="scroll_view_margin_vertical">10dp</dimen>
+    <dimen name="scroll_view_layout_left_width">100dp</dimen>
+    <dimen name="scroll_view_layout_left_height">100dp</dimen>
+    <dimen name="scroll_view_layout_right_width">80dp</dimen>
+    <dimen name="scroll_view_layout_right_height">100dp</dimen>
+    <dimen name="radio_button_grid_type_width">50dp</dimen>
+    <dimen name="radio_button_grid_type_height">50dp</dimen>
+    <dimen name="choose_piece_color_image_width">40dp</dimen>
+    <dimen name="choose_piece_color_image_height">40dp</dimen>
+    <dimen name="scroll_view_total_width">200dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="game_message_text_size">15sp</dimen>
+
+    <dimen name="image_buttons_tool_bar_size">50dp</dimen>
+
+    <dimen name="text_stats_margin_left">5dp</dimen>
+    <dimen name="text_stats_margin_top">2dp</dimen>
+
+    <dimen name="game_stats_margin_left">10dp</dimen>
+    <dimen name="game_stats_margin_top">10dp</dimen>
+    <dimen name="headings_text_view">18sp</dimen>
+    <dimen name="game_difficulty_text_view">15sp</dimen>
+    <dimen name="game_stats_margin_top_small">5dp</dimen>
+    <dimen name="difficulty_mode_margin_left">0dp</dimen>
+</resources>
