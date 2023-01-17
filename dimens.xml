@@ -39,14 +39,14 @@
     <dimen name="landing_page_text_height">100dp</dimen>
     <dimen name="landing_page_margin_top">5dp</dimen>
 
-    <dimen name="board_width">299dp</dimen>
-    <dimen name="board_height">337dp</dimen>
-    <dimen name="board_width_eight">298dp</dimen>
-    <dimen name="board_height_eight">356dp</dimen>
-    <dimen name="board_width_seven">296dp</dimen>
+    <dimen name="board_width">306dp</dimen>
+    <dimen name="board_height">359dp</dimen>
+    <dimen name="board_width_eight">302dp</dimen>
+    <dimen name="board_height_eight">358dp</dimen>
+    <dimen name="board_width_seven">300dp</dimen>
     <dimen name="board_height_seven">354dp</dimen>
 
-    <dimen name="racket_height">20dp</dimen>
+    <dimen name="racket_height">30dp</dimen>
     <dimen name="racket_height_eight_grid">30dp</dimen>
     <dimen name="racket_height_seven_grid">30dp</dimen>
 
@@ -81,4 +81,37 @@
     <dimen name="game_difficulty_text_view">15sp</dimen>
     <dimen name="game_stats_margin_top_small">5dp</dimen>
     <dimen name="difficulty_mode_margin_left">0dp</dimen>
+
+    <dimen name="main_activity_corner_radius">20dp</dimen>
+
+    <!--- Relative Layout Grid 9 (Container for the game pieces) -->
+     <dimen name="container9_layout_width">14dp</dimen>
+     <dimen name="container9_layout_height">14dp</dimen>
+     <dimen name="container9_layout_marginleft">16dp</dimen>
+     <dimen name="container9_layout_marginright">2dp</dimen>
+     <dimen name="container9_layout_margintop">16dp</dimen>
+     <dimen name="container9_layout_marginbottom">2dp</dimen>
+
+    <!--- Relative Layout Grid 8 (Container for the game pieces) -->
+    <dimen name="container8_layout_width">18dp</dimen>
+    <dimen name="container8_layout_height">18dp</dimen>
+    <dimen name="container8_layout_marginleft">17dp</dimen>
+    <dimen name="container8_layout_marginright">2dp</dimen>
+    <dimen name="container8_layout_margintop">17dp</dimen>
+    <dimen name="container8_layout_marginbottom">2dp</dimen>
+
+
+    <!--- Relative Layout Grid 7 (Container for the game pieces) -->
+    <dimen name="container7_layout_width">20dp</dimen>
+    <dimen name="container7_layout_height">20dp</dimen>
+    <dimen name="container7_layout_marginleft">18dp</dimen>
+    <dimen name="container7_layout_marginright">4dp</dimen>
+    <dimen name="container7_layout_margintop">18dp</dimen>
+    <dimen name="container7_layout_marginbottom">4dp</dimen>
+
+    <!--- Box stroke width -->
+    <dimen name="box_stroke_width">1dp</dimen>
+    <dimen name="board_stroke_width">3dp</dimen>
+    <dimen name="racket_stroke_width">3dp</dimen>
+
 </resources>

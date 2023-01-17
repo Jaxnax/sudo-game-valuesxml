@@ -24,4 +24,16 @@
     <color name="button_subscribe">#9F08B9</color>
 
     <color name="game_message_button_color">#672CD1</color>
+
+    <color name="custom_progress_drawable_color">#000211</color>
+    <color name="progress_tint">#EFEDE7</color>
+
+    <color name="box_stroke_color">#030A51</color>
+    <color name="board_stroke_color">#030A51</color>
+
+    <color name="cyan">#00FFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
 </resources>
